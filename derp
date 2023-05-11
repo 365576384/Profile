@@ -1,0 +1,19 @@
+{
+  "Regions": {
+    "901": {
+      "RegionID": 901,
+      "RegionCode": "hm-sh",
+      "RegionName": "hm Shanghai",
+      "Nodes": [
+        {
+          "Name": "901a",
+          "RegionID": 901,
+          "DERPPort": 443,
+          "HostName": "180.165.219.234",
+          "IPv4": "180.165.219.234",
+          "InsecureForTests": true
+        }
+      ]
+    }
+  }
+}
